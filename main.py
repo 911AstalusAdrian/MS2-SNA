@@ -33,7 +33,7 @@ headers = {
 
 endpoint = 'https://api.spotify.com/v1/search'
 offset = 0
-
+artist_id = 1
 
 for i in range(25):
     data = urlencode({
@@ -54,7 +54,8 @@ for i in range(25):
         print(f"Next URL: {response_json['artists']['next']}\n\n")
         artists = response_json['artists']['items']
         for artist in artists:
-            print(f"Artist name: {artist['name']}")
+            print(f"{artist_id})  Artist name: {artist['name']}, Artist id: {artist['id']}")
+            artist_id += 1
 
         offset += 20
     except:
