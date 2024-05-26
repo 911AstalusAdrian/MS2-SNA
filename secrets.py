@@ -1,7 +1,5 @@
 import base64
-
 import requests
-from urllib.parse import urlencode
 
 
 class Secrets:

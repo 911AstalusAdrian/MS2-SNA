@@ -1,2502 +1,2002 @@
-[
-    {
+{
+    "Taylor Swift": {
         "number": 1,
-        "name": "Taylor Swift",
         "spotify_id": "06HL4z0CvFAxyc27GXpf02"
     },
-    {
+    "Drake": {
         "number": 2,
-        "name": "Drake",
         "spotify_id": "3TVXtAsR1Inumwj472S9r4"
     },
-    {
+    "Kendrick Lamar": {
         "number": 3,
-        "name": "Kendrick Lamar",
         "spotify_id": "2YZyLoL8N0Wb9xBt1NhZWg"
     },
-    {
+    "Future": {
         "number": 4,
-        "name": "Future",
         "spotify_id": "1RyvyyTE3xzB2ZywiAwp0i"
     },
-    {
+    "Morgan Wallen": {
         "number": 5,
-        "name": "Morgan Wallen",
         "spotify_id": "4oUHIQIBe0LHzYfvXNW4QM"
     },
-    {
+    "Metro Boomin": {
         "number": 6,
-        "name": "Metro Boomin",
         "spotify_id": "0iEtIxbK0KxaSlF7G42ZOp"
     },
-    {
+    "Travis Scott": {
         "number": 7,
-        "name": "Travis Scott",
         "spotify_id": "0Y5tJX1MQlPlqiwlOH1tJY"
     },
-    {
+    "Kanye West": {
         "number": 8,
-        "name": "Kanye West",
         "spotify_id": "5K4W6rqBFWDnAN6FQUkS6x"
     },
-    {
+    "Billie Eilish": {
         "number": 9,
-        "name": "Billie Eilish",
         "spotify_id": "6qqNVTkY8uBg9cP3Jd7DAH"
     },
-    {
+    "Zach Bryan": {
         "number": 10,
-        "name": "Zach Bryan",
         "spotify_id": "40ZNYROS4zLfyyBSs2PGe2"
     },
-    {
+    "The Weeknd": {
         "number": 11,
-        "name": "The Weeknd",
         "spotify_id": "1Xyo4u8uXC1ZmMpatF05PJ"
     },
-    {
+    "Post Malone": {
         "number": 12,
-        "name": "Post Malone",
         "spotify_id": "246dkjvS1zLTtiykXe5h60"
     },
-    {
+    "Bad Bunny": {
         "number": 13,
-        "name": "Bad Bunny",
         "spotify_id": "4q3ewBCX7sLwd24euuV69X"
     },
-    {
+    "21 Savage": {
         "number": 14,
-        "name": "21 Savage",
         "spotify_id": "1URnnhqYAYcrqrcwql10ft"
     },
-    {
+    "SZA": {
         "number": 15,
-        "name": "SZA",
         "spotify_id": "7tYKF4w9nC0nq9CsPZTHyP"
     },
-    {
+    "Ariana Grande": {
         "number": 16,
-        "name": "Ariana Grande",
         "spotify_id": "66CXWjxzNUsdJxJ2JdwvnR"
     },
-    {
+    "$uicideboy$": {
         "number": 17,
-        "name": "$uicideboy$",
         "spotify_id": "1VPmR4DJC1PlOtd0IADAO0"
     },
-    {
+    "Peso Pluma": {
         "number": 18,
-        "name": "J. Cole",
-        "spotify_id": "6l3HvQ5sa6mXTsMTB19rO5"
-    },
-    {
-        "number": 19,
-        "name": "Playboi Carti",
-        "spotify_id": "699OTQXzgjhIYAHMy9RyPD"
-    },
-    {
-        "number": 20,
-        "name": "Peso Pluma",
         "spotify_id": "12GqGscKJx3aE4t07u7eVZ"
     },
-    {
+    "J. Cole": {
+        "number": 19,
+        "spotify_id": "6l3HvQ5sa6mXTsMTB19rO5"
+    },
+    "Playboi Carti": {
+        "number": 20,
+        "spotify_id": "699OTQXzgjhIYAHMy9RyPD"
+    },
+    "Beyonc\u00e9": {
         "number": 21,
-        "name": "Beyonc\u00e9",
         "spotify_id": "6vWDO969PvNqNYHIOW5v0m"
     },
-    {
+    "Luke Combs": {
         "number": 22,
-        "name": "Luke Combs",
         "spotify_id": "718COspgdWOnwOFpJHRZHS"
     },
-    {
+    "Lana Del Rey": {
         "number": 23,
-        "name": "Lana Del Rey",
         "spotify_id": "00FQb4jTyendYWaN8pK0wa"
     },
-    {
+    "Rihanna": {
         "number": 24,
-        "name": "Rihanna",
         "spotify_id": "5pKCCKE2ajJHZ9KAiaK11H"
     },
-    {
+    "Juice WRLD": {
         "number": 25,
-        "name": "Juice WRLD",
         "spotify_id": "4MCBfE4596Uoi2O4DtmEMz"
     },
-    {
+    "Gunna": {
         "number": 26,
-        "name": "Gunna",
         "spotify_id": "2hlmm7s2ICUX0LVIhVFlZQ"
     },
-    {
+    "Eminem": {
         "number": 27,
-        "name": "Eminem",
         "spotify_id": "7dGJo4pcD2V6oG8kP0tJRR"
     },
-    {
+    "Olivia Rodrigo": {
         "number": 28,
-        "name": "Olivia Rodrigo",
         "spotify_id": "1McMsnEElThX1knmY4oliG"
     },
-    {
+    "Noah Kahan": {
         "number": 29,
-        "name": "Noah Kahan",
         "spotify_id": "2RQXRUsr4IW1f3mKyKsy4B"
     },
-    {
+    "XXXTENTACION": {
         "number": 30,
-        "name": "XXXTENTACION",
         "spotify_id": "15UsOTVnJzReFVN1VCnxy4"
     },
-    {
+    "Lil Wayne": {
         "number": 31,
-        "name": "Lil Wayne",
         "spotify_id": "55Aa2cqylxrFIXC767Z865"
     },
-    {
+    "Lil Baby": {
         "number": 32,
-        "name": "Lil Baby",
         "spotify_id": "5f7VJjfbwm532GiveGC0ZK"
     },
-    {
+    "Hozier": {
         "number": 33,
-        "name": "Hozier",
         "spotify_id": "2FXC3k01G6Gw61bmprjgqS"
     },
-    {
+    "Tyler, The Creator": {
         "number": 34,
-        "name": "Tyler, The Creator",
         "spotify_id": "4V8LLVI7PbaPR0K2TGSxFF"
     },
-    {
+    "Fuerza Regida": {
         "number": 35,
-        "name": "Fuerza Regida",
         "spotify_id": "0ys2OFYzWYB5hRDLCsBqxt"
     },
-    {
+    "Junior H": {
         "number": 36,
-        "name": "Junior H",
         "spotify_id": "7Gi6gjaWy3DxyilpF1a8Is"
     },
-    {
+    "Lil Uzi Vert": {
         "number": 37,
-        "name": "Lil Uzi Vert",
         "spotify_id": "4O15NlyKLIASxsJ0PrXPfz"
     },
-    {
+    "Sabrina Carpenter": {
         "number": 38,
-        "name": "Sabrina Carpenter",
         "spotify_id": "74KM79TiuVKeVCqs8QtB0B"
     },
-    {
+    "Nicki Minaj": {
         "number": 39,
-        "name": "Nicki Minaj",
         "spotify_id": "0hCNtLu0JehylgoiP8L4Gh"
     },
-    {
+    "Feid": {
         "number": 40,
-        "name": "Feid",
         "spotify_id": "2LRoIwlKmHjgvigdNGBHNo"
     },
-    {
+    "Brent Faiyaz": {
         "number": 41,
-        "name": "Brent Faiyaz",
         "spotify_id": "3tlXnStJ1fFhdScmQeLpuG"
     },
-    {
+    "Bruno Mars": {
         "number": 42,
-        "name": "Bruno Mars",
         "spotify_id": "0du5cEVh5yTK9QJze8zA0C"
     },
-    {
+    "Chris Brown": {
         "number": 43,
-        "name": "Chris Brown",
         "spotify_id": "7bXgB6jMjp9ATFy66eO08Z"
     },
-    {
+    "Doja Cat": {
         "number": 44,
-        "name": "Doja Cat",
         "spotify_id": "5cj0lLjcoR7YOSnhnX0Po5"
     },
-    {
+    "Dua Lipa": {
         "number": 45,
-        "name": "Dua Lipa",
         "spotify_id": "6M2wZ9GZgrQXHCFfjv46we"
     },
-    {
+    "YoungBoy Never Broke Again": {
         "number": 46,
-        "name": "YoungBoy Never Broke Again",
         "spotify_id": "7wlFDEWiM5OoIAt8RSli8b"
     },
-    {
+    "Rauw Alejandro": {
         "number": 47,
-        "name": "Rauw Alejandro",
         "spotify_id": "1mcTU81TzQhprhouKaTkpq"
     },
-    {
+    "KAROL G": {
         "number": 48,
-        "name": "KAROL G",
         "spotify_id": "790FomKkXshlbRYZFtlgla"
     },
-    {
+    "Justin Bieber": {
         "number": 49,
-        "name": "Justin Bieber",
         "spotify_id": "1uNFoZAHBGtllmzznpCI3s"
     },
-    {
+    "Benson Boone": {
         "number": 50,
-        "name": "Benson Boone",
         "spotify_id": "22wbnEMDvgVIAGdFeek6ET"
     },
-    {
+    "Chris Stapleton": {
         "number": 51,
-        "name": "Chris Stapleton",
         "spotify_id": "4YLtscXsxbVgi031ovDDdh"
     },
-    {
+    "A$AP Rocky": {
         "number": 52,
-        "name": "Natanael Cano",
-        "spotify_id": "0elWFr7TW8piilVRYJUe4P"
-    },
-    {
-        "number": 53,
-        "name": "Ty Dolla $ign",
-        "spotify_id": "7c0XG5cIJTrrAgEC3ULPiq"
-    },
-    {
-        "number": 54,
-        "name": "A$AP Rocky",
         "spotify_id": "13ubrt8QOOCPljQ2FL1Kca"
     },
-    {
+    "Natanael Cano": {
+        "number": 53,
+        "spotify_id": "0elWFr7TW8piilVRYJUe4P"
+    },
+    "Ty Dolla $ign": {
+        "number": 54,
+        "spotify_id": "7c0XG5cIJTrrAgEC3ULPiq"
+    },
+    "Yeat": {
         "number": 55,
-        "name": "Yeat",
         "spotify_id": "3qiHUAX7zY4Qnjx8TNUzVx"
     },
-    {
+    "Bryson Tiller": {
         "number": 56,
-        "name": "Bryson Tiller",
         "spotify_id": "2EMAnMvWE2eb56ToJVfCWs"
     },
-    {
+    "Chappell Roan": {
         "number": 57,
-        "name": "Chappell Roan",
         "spotify_id": "7GlBOeep6PqTfFi59PTUUN"
     },
-    {
+    "Tommy Richman": {
         "number": 58,
-        "name": "Tommy Richman",
         "spotify_id": "1WaFQSHVGZQJTbf0BdxdNo"
     },
-    {
+    "Kali Uchis": {
         "number": 59,
-        "name": "Kali Uchis",
         "spotify_id": "1U1el3k54VvEUzo3ybLPlM"
     },
-    {
+    "Mac Miller": {
         "number": 60,
-        "name": "Mac Miller",
         "spotify_id": "4LLpKhyESsyAXpc4laK94U"
     },
-    {
+    "Young Thug": {
         "number": 61,
-        "name": "Young Thug",
         "spotify_id": "50co4Is1HCEo8bhOyUWKpn"
     },
-    {
+    "Don Toliver": {
         "number": 62,
-        "name": "Don Toliver",
         "spotify_id": "4Gso3d4CscCijv0lmajZWs"
     },
-    {
+    "Lil Durk": {
         "number": 63,
-        "name": "Lil Durk",
         "spotify_id": "3hcs9uc56yIGFCSy9leWe7"
     },
-    {
+    "BigXthaPlug": {
         "number": 64,
-        "name": "BigXthaPlug",
         "spotify_id": "6qxpnaukVayrQn6ViNvu9I"
     },
-    {
+    "Imagine Dragons": {
         "number": 65,
-        "name": "Imagine Dragons",
         "spotify_id": "53XhwfbYqKCa1cC15pYq2q"
     },
-    {
+    "The Beatles": {
         "number": 66,
-        "name": "The Beatles",
         "spotify_id": "3WrFJ7ztbogyGnTHbHJFl2"
     },
-    {
+    "Linkin Park": {
         "number": 67,
-        "name": "Linkin Park",
         "spotify_id": "6XyY86QOPPrYVGvF9ch6wz"
     },
-    {
+    "Khalid": {
         "number": 68,
-        "name": "Khalid",
         "spotify_id": "6LuN9FCkKOj5PcnpouEgny"
     },
-    {
+    "Mitski": {
         "number": 69,
-        "name": "Mitski",
         "spotify_id": "2uYWxilOVlUdk4oV9DvwqK"
     },
-    {
+    "Lil Peep": {
         "number": 70,
-        "name": "Lil Peep",
         "spotify_id": "2kCcBybjl3SAtIcwdWpUe3"
     },
-    {
+    "A Boogie Wit da Hoodie": {
         "number": 71,
-        "name": "A Boogie Wit da Hoodie",
         "spotify_id": "31W5EY0aAly4Qieq6OFu6I"
     },
-    {
+    "Coldplay": {
         "number": 72,
-        "name": "Coldplay",
         "spotify_id": "4gzpq5DPGxSnKTe4SA8HAU"
     },
-    {
+    "David Guetta": {
         "number": 73,
-        "name": "David Guetta",
         "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai"
     },
-    {
+    "Trippie Redd": {
         "number": 74,
-        "name": "Trippie Redd",
         "spotify_id": "6Xgp2XMz1fhVYe7i6yNAax"
     },
-    {
+    "Kodak Black": {
         "number": 75,
-        "name": "Kodak Black",
         "spotify_id": "46SHBwWsqBkxI7EeeBEQG7"
     },
-    {
+    "TV Girl": {
         "number": 76,
-        "name": "TV Girl",
         "spotify_id": "0Y6dVaC9DZtPNH4591M42W"
     },
-    {
+    "Calvin Harris": {
         "number": 77,
-        "name": "Calvin Harris",
         "spotify_id": "7CajNmpbOovFoOoasH2HaY"
     },
-    {
+    "Childish Gambino": {
         "number": 78,
-        "name": "Childish Gambino",
         "spotify_id": "73sIBHcqh3Z3NyqHKZ7FOL"
     },
-    {
+    "Tyler Childers": {
         "number": 79,
-        "name": "Tyler Childers",
         "spotify_id": "13ZEDW6vyBF12HYcZRr4EV"
     },
-    {
+    "JAY-Z": {
         "number": 80,
-        "name": "JAY-Z",
         "spotify_id": "3nFkdlSjzX9mRTtwJOzDYB"
     },
-    {
+    "Luis R Conriquez": {
         "number": 81,
-        "name": "Luis R Conriquez",
         "spotify_id": "0pePYDrJGk8gqMRbXrLJC8"
     },
-    {
+    "Ed Sheeran": {
         "number": 82,
-        "name": "Ed Sheeran",
         "spotify_id": "6eUKZXaKkcviH0Ku9w2n3V"
     },
-    {
+    "Anuel AA": {
         "number": 83,
-        "name": "Anuel AA",
         "spotify_id": "2R21vXR83lH98kGeO99Y66"
     },
-    {
+    "White Noise Radiance": {
         "number": 84,
-        "name": "White Noise Radiance",
         "spotify_id": "0QUBaF6Rtta4TTmxYYfzux"
     },
-    {
+    "Tate McRae": {
         "number": 85,
-        "name": "Tate McRae",
         "spotify_id": "45dkTj5sMRSjrmBSBeiHym"
     },
-    {
+    "Myke Towers": {
         "number": 86,
-        "name": "Myke Towers",
         "spotify_id": "7iK8PXO48WeuP03g8YR51W"
     },
-    {
+    "Miracle Tones": {
         "number": 87,
-        "name": "Miracle Tones",
         "spotify_id": "4rXABp4A7KjG9elWFNAbO4"
     },
-    {
+    "Harry Styles": {
         "number": 88,
-        "name": "Harry Styles",
         "spotify_id": "6KImCVD70vtIoJWnq6nGn3"
     },
-    {
+    "Disney": {
         "number": 89,
-        "name": "Disney",
         "spotify_id": "3xvaSlT4xsyk6lY1ESOspO"
     },
-    {
+    "Jelly Roll": {
         "number": 90,
-        "name": "Jelly Roll",
         "spotify_id": "19k8AgwwTSxeaxkOuCQEJs"
     },
-    {
+    "Grupo Frontera": {
         "number": 91,
-        "name": "Grupo Frontera",
         "spotify_id": "6XkjpgcEsYab502Vr1bBeW"
     },
-    {
+    "Melanie Martinez": {
         "number": 92,
-        "name": "Melanie Martinez",
         "spotify_id": "63yrD80RY3RNEM2YDpUpO8"
     },
-    {
+    "Lil Tecca": {
         "number": 93,
-        "name": "Lil Tecca",
         "spotify_id": "4Ga1P7PMIsmqEZqhYZQgDo"
     },
-    {
+    "Marshmello": {
         "number": 94,
-        "name": "Marshmello",
         "spotify_id": "64KEffDW9EtZ1y2vBYgq8T"
     },
-    {
+    "Pitbull": {
         "number": 95,
-        "name": "Pitbull",
         "spotify_id": "0TnOYISbd1XYRBk9myaseg"
     },
-    {
+    "Megan Thee Stallion": {
         "number": 96,
-        "name": "Megan Thee Stallion",
         "spotify_id": "181bsRPaVXVlUKXrxwZfHK"
     },
-    {
+    "Laufey": {
         "number": 97,
-        "name": "Laufey",
         "spotify_id": "7gW0r5CkdEUMm42w9XpyZO"
     },
-    {
+    "Fleetwood Mac": {
         "number": 98,
-        "name": "Fleetwood Mac",
         "spotify_id": "08GQAI4eElDnROBrJRGE0X"
     },
-    {
+    "Maroon 5": {
         "number": 99,
-        "name": "Maroon 5",
         "spotify_id": "04gDigrS5kc9YWfZHwBETP"
     },
-    {
+    "Shaboozey": {
         "number": 100,
-        "name": "Shaboozey",
         "spotify_id": "3y2cIKLjiOlp1Np37WiUdH"
     },
-    {
+    "Polo G": {
         "number": 101,
-        "name": "Polo G",
         "spotify_id": "6AgTAQt8XS6jRWi4sX7w49"
     },
-    {
+    "Rain Sounds": {
         "number": 102,
-        "name": "Rain Sounds",
         "spotify_id": "5nSGBmlgUdqWNExnOX8VtV"
     },
-    {
+    "Carin Leon": {
         "number": 103,
-        "name": "Carin Leon",
         "spotify_id": "66ihevNkSYNzRAl44dx6jJ"
     },
-    {
+    "Lil Yachty": {
         "number": 104,
-        "name": "Lil Yachty",
         "spotify_id": "6icQOAFXDZKsumw3YXyusw"
     },
-    {
+    "Rod Wave": {
         "number": 105,
-        "name": "Rod Wave",
         "spotify_id": "45TgXXqMDdF8BkjA83OM7z"
     },
-    {
+    "Ozuna": {
         "number": 106,
-        "name": "Ozuna",
         "spotify_id": "1i8SpTcr7yvPOmcqrbnVXY"
     },
-    {
+    "The Neighbourhood": {
         "number": 107,
-        "name": "The Neighbourhood",
         "spotify_id": "77SW9BnxLY8rJ0RciFqkHh"
     },
-    {
+    "Miley Cyrus": {
         "number": 108,
-        "name": "Miley Cyrus",
         "spotify_id": "5YGY8feqx7naU7z4HrwZM6"
     },
-    {
+    "Lady Gaga": {
         "number": 109,
-        "name": "Lady Gaga",
         "spotify_id": "1HY2Jd0NmPuamShAr6KMms"
     },
-    {
+    "Steve Lacy": {
         "number": 110,
-        "name": "Steve Lacy",
         "spotify_id": "57vWImR43h4CaDao012Ofp"
     },
-    {
+    "J Balvin": {
         "number": 111,
-        "name": "J Balvin",
         "spotify_id": "1vyhD5VmyZ7KMfW5gqLgo5"
     },
-    {
+    "PARTYNEXTDOOR": {
         "number": 112,
-        "name": "PARTYNEXTDOOR",
         "spotify_id": "2HPaUgqeutzr3jx5a9WyDV"
     },
-    {
+    "Kacey Musgraves": {
         "number": 113,
-        "name": "Kacey Musgraves",
         "spotify_id": "70kkdajctXSbqSMJbQO424"
     },
-    {
+    "BTS": {
         "number": 114,
-        "name": "BTS",
         "spotify_id": "3Nrfpe0tUJi4K4DXYWgMUX"
     },
-    {
+    "Shakira": {
         "number": 115,
-        "name": "Shakira",
         "spotify_id": "0EmeFodog0BfCgMzAIvKQp"
     },
-    {
+    "Katy Perry": {
         "number": 116,
-        "name": "Katy Perry",
         "spotify_id": "6jJ0s89eD6GaHleKKya26X"
     },
-    {
+    "Summer Walker": {
         "number": 117,
-        "name": "Summer Walker",
         "spotify_id": "57LYzLEk2LcFghVwuWbcuS"
     },
-    {
+    "Nirvana": {
         "number": 118,
-        "name": "Nirvana",
         "spotify_id": "6olE6TJLqED3rqDCT0FyPh"
     },
-    {
+    "Deftones": {
         "number": 119,
-        "name": "Deftones",
         "spotify_id": "6Ghvu1VvMGScGpOUJBAHNH"
     },
-    {
+    "Teddy Swims": {
         "number": 120,
-        "name": "Teddy Swims",
         "spotify_id": "33qOK5uJ8AR2xuQQAhHump"
     },
-    {
+    "Daddy Yankee": {
         "number": 121,
-        "name": "Daddy Yankee",
         "spotify_id": "4VMYDCV2IEDYJArk749S6m"
     },
-    {
+    "Queen": {
         "number": 122,
-        "name": "Queen",
         "spotify_id": "1dfeR4HaWDbWqFHLkxsg1d"
     },
-    {
+    "Red Hot Chili Peppers": {
         "number": 123,
-        "name": "Red Hot Chili Peppers",
         "spotify_id": "0L8ExT028jH3ddEcZwqJJ5"
     },
-    {
+    "USHER": {
         "number": 124,
-        "name": "USHER",
         "spotify_id": "23zg3TcAtWQy7J6upgbUnj"
     },
-    {
+    "Tory Lanez": {
         "number": 125,
-        "name": "Tory Lanez",
         "spotify_id": "2jku7tDXc6XoB6MO2hFuqg"
     },
-    {
+    "Justin Timberlake": {
         "number": 126,
-        "name": "Justin Timberlake",
         "spotify_id": "31TPClRtHm23RisEBtV3X7"
     },
-    {
+    "OneRepublic": {
         "number": 127,
-        "name": "OneRepublic",
         "spotify_id": "5Pwc4xIPtQLFEnJriah9YJ"
     },
-    {
+    "Key Glock": {
         "number": 128,
-        "name": "Key Glock",
         "spotify_id": "0RESbWvOMyua0yuyVrztJ5"
     },
-    {
+    "Kid Cudi": {
         "number": 129,
-        "name": "Kid Cudi",
         "spotify_id": "0fA0VVWsXO9YnASrzqfmYu"
     },
-    {
+    "Sexyy Red": {
         "number": 130,
-        "name": "Sexyy Red",
         "spotify_id": "3DbwFQlvLxRSi2uX8mf81A"
     },
-    {
+    "Tame Impala": {
         "number": 131,
-        "name": "Tame Impala",
         "spotify_id": "5INjqkS1o8h1imAzPqGZBb"
     },
-    {
+    "Snoop Dogg": {
         "number": 132,
-        "name": "Snoop Dogg",
         "spotify_id": "7hJcb9fa4alzcOq3EaNPoG"
     },
-    {
+    "Artemas": {
         "number": 133,
-        "name": "Artemas",
         "spotify_id": "0PCCGZ0wGLizHt2KZ7hhA2"
     },
-    {
+    "50 Cent": {
         "number": 134,
-        "name": "50 Cent",
         "spotify_id": "3q7HBObVc0L8jNeTe5Gofh"
     },
-    {
+    "Cigarettes After Sex": {
         "number": 135,
-        "name": "Cigarettes After Sex",
         "spotify_id": "1QAJqy2dA3ihHBFIHRphZj"
     },
-    {
+    "Mac DeMarco": {
         "number": 136,
-        "name": "Mac DeMarco",
         "spotify_id": "3Sz7ZnJQBIHsXLUSo0OQtM"
     },
-    {
+    "Twenty One Pilots": {
         "number": 137,
-        "name": "Twenty One Pilots",
         "spotify_id": "3YQKmKGau1PzlVlkL1iodx"
     },
-    {
+    "Creedence Clearwater Revival": {
         "number": 138,
-        "name": "Creedence Clearwater Revival",
         "spotify_id": "3IYUhFvPQItj6xySrBmZkd"
     },
-    {
+    "LUCKI": {
         "number": 139,
-        "name": "LUCKI",
         "spotify_id": "5tQMB0cuNXdCtzovGt55uD"
     },
-    {
+    "NLE Choppa": {
         "number": 140,
-        "name": "NLE Choppa",
         "spotify_id": "0ErzCpIMyLcjPiwT4elrtZ"
     },
-    {
+    "Miguel": {
         "number": 141,
-        "name": "Miguel",
         "spotify_id": "360IAlyVv4PCEVjgyMZrxK"
     },
-    {
+    "Chief Keef": {
         "number": 142,
-        "name": "Chief Keef",
         "spotify_id": "15iVAtD3s3FsQR4w1v6M0P"
     },
-    {
+    "Cardi B": {
         "number": 143,
-        "name": "Cardi B",
         "spotify_id": "4kYSro6naA4h99UJvo89HB"
     },
-    {
+    "Elton John": {
         "number": 144,
-        "name": "Elton John",
         "spotify_id": "3PhoLpVuITZKcymswpck5b"
     },
-    {
+    "Cody Johnson": {
         "number": 145,
-        "name": "Cody Johnson",
         "spotify_id": "6zLBxLdl60ekBLpawtT63I"
     },
-    {
+    "Daniel Caesar": {
         "number": 146,
-        "name": "Daniel Caesar",
         "spotify_id": "20wkVLutqVOYrc0kxFs7rA"
     },
-    {
+    "Wiz Khalifa": {
         "number": 147,
-        "name": "Ti\u00ebsto",
-        "spotify_id": "2o5jDhtHVPhrJdv3cEQ99Z"
-    },
-    {
-        "number": 148,
-        "name": "Jhen\u00e9 Aiko",
-        "spotify_id": "5ZS223C6JyBfXasXxrRqOk"
-    },
-    {
-        "number": 149,
-        "name": "Jack Harlow",
-        "spotify_id": "2LIk90788K0zvyj2JJVwkJ"
-    },
-    {
-        "number": 150,
-        "name": "Offset",
-        "spotify_id": "4DdkRBBYG6Yk9Ka8tdJ9BW"
-    },
-    {
-        "number": 151,
-        "name": "Dominic Fike",
-        "spotify_id": "6USv9qhCn6zfxlBQIYJ9qs"
-    },
-    {
-        "number": 152,
-        "name": "Xavi",
-        "spotify_id": "3Me35AWHCGqW4sZ7bWWJt1"
-    },
-    {
-        "number": 153,
-        "name": "Ken Carson",
-        "spotify_id": "3gBZUcNeVumkeeJ19CY2sX"
-    },
-    {
-        "number": 154,
-        "name": "Michael Jackson",
-        "spotify_id": "3fMbdgg4jU18AjLCKBhRSm"
-    },
-    {
-        "number": 155,
-        "name": "Wiz Khalifa",
         "spotify_id": "137W8MRPWKqSmrBGDBFSop"
     },
-    {
+    "Ti\u00ebsto": {
+        "number": 148,
+        "spotify_id": "2o5jDhtHVPhrJdv3cEQ99Z"
+    },
+    "Jhen\u00e9 Aiko": {
+        "number": 149,
+        "spotify_id": "5ZS223C6JyBfXasXxrRqOk"
+    },
+    "Jack Harlow": {
+        "number": 150,
+        "spotify_id": "2LIk90788K0zvyj2JJVwkJ"
+    },
+    "Offset": {
+        "number": 151,
+        "spotify_id": "4DdkRBBYG6Yk9Ka8tdJ9BW"
+    },
+    "Dominic Fike": {
+        "number": 152,
+        "spotify_id": "6USv9qhCn6zfxlBQIYJ9qs"
+    },
+    "Xavi": {
+        "number": 153,
+        "spotify_id": "3Me35AWHCGqW4sZ7bWWJt1"
+    },
+    "Ken Carson": {
+        "number": 154,
+        "spotify_id": "3gBZUcNeVumkeeJ19CY2sX"
+    },
+    "Michael Jackson": {
+        "number": 155,
+        "spotify_id": "3fMbdgg4jU18AjLCKBhRSm"
+    },
+    "\u00a5$": {
         "number": 156,
-        "name": "\u00a5$",
         "spotify_id": "4xPQFgDA5M2xa0ZGo5iIsv"
     },
-    {
+    "Gabito Ballesteros": {
         "number": 157,
-        "name": "Gabito Ballesteros",
         "spotify_id": "6Sbl0NT50roqWvy746MfVf"
     },
-    {
+    "Bob Marley & The Wailers": {
         "number": 158,
-        "name": "Bob Marley & The Wailers",
         "spotify_id": "2QsynagSdAqZj3U9HgDzjD"
     },
-    {
+    "Fall Out Boy": {
         "number": 159,
-        "name": "Fall Out Boy",
         "spotify_id": "4UXqAaa6dQYAk18Lv7PEgX"
     },
-    {
+    "AC/DC": {
         "number": 160,
-        "name": "AC/DC",
         "spotify_id": "711MCceyCBcFnzjGY4Q7Un"
     },
-    {
+    "NF": {
         "number": 161,
-        "name": "NF",
         "spotify_id": "6fOMl44jA4Sp5b9PpYCkzz"
     },
-    {
+    "DaBaby": {
         "number": 162,
-        "name": "DaBaby",
         "spotify_id": "4r63FhuTkUYltbVAg5TQnk"
     },
-    {
+    "Luke Bryan": {
         "number": 163,
-        "name": "Luke Bryan",
         "spotify_id": "0BvkDsjIUla7X0k6CSWh1I"
     },
-    {
+    "One Direction": {
         "number": 164,
-        "name": "One Direction",
         "spotify_id": "4AK6F7OLvEQ5QYCBNiQWHq"
     },
-    {
+    "Jung Kook": {
         "number": 165,
-        "name": "Jung Kook",
         "spotify_id": "6HaGTQPmzraVmaVxvz6EUc"
     },
-    {
+    "Metallica": {
         "number": 166,
-        "name": "Metallica",
         "spotify_id": "2ye2Wgw4gimLv2eAKyk1NB"
     },
-    {
+    "Oscar Maydon": {
         "number": 167,
-        "name": "Oscar Maydon",
         "spotify_id": "3l9G1G9MxH6DaRhwLklaf5"
     },
-    {
+    "Moneybagg Yo": {
         "number": 168,
-        "name": "Moneybagg Yo",
         "spotify_id": "3tJoFztHeIJkJWMrx0td2f"
     },
-    {
+    "Halsey": {
         "number": 169,
-        "name": "Halsey",
         "spotify_id": "26VFTg2z8YR0cCuwLzESi2"
     },
-    {
+    "Swae Lee": {
         "number": 170,
-        "name": "Swae Lee",
         "spotify_id": "1zNqQNIdeOUZHb8zbZRFMX"
     },
-    {
+    "HARDY": {
         "number": 171,
-        "name": "HARDY",
         "spotify_id": "5QNm7E7RU2m64l6Gliu8Oy"
     },
-    {
+    "Florence + The Machine": {
         "number": 172,
-        "name": "Florence + The Machine",
         "spotify_id": "1moxjboGR7GNWYIMWsRjgG"
     },
-    {
+    "Sia": {
         "number": 173,
-        "name": "Sia",
         "spotify_id": "5WUlDfRSoLAfcVSX1WnrxN"
     },
-    {
+    "Eslabon Armado": {
         "number": 174,
-        "name": "Eslabon Armado",
         "spotify_id": "0XeEobZplHxzM9QzFQWLiR"
     },
-    {
+    "System Of A Down": {
         "number": 175,
-        "name": "System Of A Down",
         "spotify_id": "5eAWCfyUhZtHHtBdNk56l1"
     },
-    {
+    "Maluma": {
         "number": 176,
-        "name": "Maluma",
         "spotify_id": "1r4hJ1h58CWwUQe3MxPuau"
     },
-    {
+    "Baby Keem": {
         "number": 177,
-        "name": "Baby Keem",
         "spotify_id": "5SXuuuRpukkTvsLuUknva1"
     },
-    {
+    "Green Day": {
         "number": 178,
-        "name": "Green Day",
         "spotify_id": "7oPftvlwr6VrsViSDV7fJY"
     },
-    {
+    "Cris Mj": {
         "number": 179,
-        "name": "Cris Mj",
         "spotify_id": "1Yj5Xey7kTwvZla8sqdsdE"
     },
-    {
+    "T-Pain": {
         "number": 180,
-        "name": "T-Pain",
         "spotify_id": "3aQeKQSyrW4qWr35idm0cy"
     },
-    {
+    "Stray Kids": {
         "number": 181,
-        "name": "Stray Kids",
         "spotify_id": "2dIgFjalVxs4ThymZ67YCE"
     },
-    {
+    "The Chainsmokers": {
         "number": 182,
-        "name": "The Chainsmokers",
         "spotify_id": "69GGBxA162lTqCwzJG5jLp"
     },
-    {
+    "That Mexican OT": {
         "number": 183,
-        "name": "That Mexican OT",
         "spotify_id": "3BAgmPNIK5IJl7zMK1wvMA"
     },
-    {
+    "Billy Joel": {
         "number": 184,
-        "name": "Billy Joel",
         "spotify_id": "6zFYqv1mOsgBRQbae3JJ9e"
     },
-    {
+    "Dream Supplier": {
         "number": 185,
-        "name": "Dream Supplier",
         "spotify_id": "6Cqtx9fpxzggIMuKn0RGCp"
     },
-    {
+    "Arijit Singh": {
         "number": 186,
-        "name": "Arijit Singh",
         "spotify_id": "4YRxDV8wJFPHPTeXepOstw"
     },
-    {
+    "Dr. Dre": {
         "number": 187,
-        "name": "Dr. Dre",
         "spotify_id": "6DPYiyq5kWVQS4RGwxzPC7"
     },
-    {
+    "The Rolling Stones": {
         "number": 188,
-        "name": "The Rolling Stones",
         "spotify_id": "22bE4uQ6baNwSHPVcDxLCe"
     },
-    {
+    "Jason Aldean": {
         "number": 189,
-        "name": "Jason Aldean",
         "spotify_id": "3FfvYsEGaIb52QPXhg4DcH"
     },
-    {
+    "Romeo Santos": {
         "number": 190,
-        "name": "Romeo Santos",
         "spotify_id": "5lwmRuXgjX8xIwlnauTZIP"
     },
-    {
+    "Baby Sleeps": {
         "number": 191,
-        "name": "Baby Sleeps",
         "spotify_id": "48zEowASEXWsK6lgP1xotZ"
     },
-    {
+    "d4vd": {
         "number": 192,
-        "name": "d4vd",
         "spotify_id": "5y8tKLUfMvliMe8IKamR32"
     },
-    {
+    "The Lumineers": {
         "number": 193,
-        "name": "The Lumineers",
         "spotify_id": "16oZKvXb6WkQlVAjwo2Wbg"
     },
-    {
+    "Bailey Zimmerman": {
         "number": 194,
-        "name": "Bailey Zimmerman",
         "spotify_id": "3win9vGIxFfBRag9S63wwf"
     },
-    {
+    "Sam Smith": {
         "number": 195,
-        "name": "Sam Smith",
         "spotify_id": "2wY79sveU1sp5g7SokKOiI"
     },
-    {
+    "2Pac": {
         "number": 196,
-        "name": "2Pac",
         "spotify_id": "1ZwdS5xdxEREPySFridCfh"
     },
-    {
+    "Ne-Yo": {
         "number": 197,
-        "name": "Ne-Yo",
         "spotify_id": "21E3waRsmPlU7jZsS13rcj"
     },
-    {
+    "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda": {
         "number": 198,
-        "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
         "spotify_id": "1bfl0AU8SqmLkElptOprhC"
     },
-    {
+    "King Von": {
         "number": 199,
-        "name": "King Von",
         "spotify_id": "6QtgPSJPSzcnn7dPZ4VINp"
     },
-    {
+    "Gucci Mane": {
         "number": 200,
-        "name": "Gucci Mane",
         "spotify_id": "13y7CgLHjMVRMDqxdx0Xdo"
     },
-    {
+    "Akon": {
         "number": 201,
-        "name": "Akon",
         "spotify_id": "0z4gvV4rjIZ9wHck67ucSV"
     },
-    {
+    "Jordan Davis": {
         "number": 202,
-        "name": "Jordan Davis",
         "spotify_id": "77kULmXAQ6vWer7IIHdGzI"
     },
-    {
+    "Sleepy Hallow": {
         "number": 203,
-        "name": "Sleepy Hallow",
         "spotify_id": "6EPlBSH2RSiettczlz7ihV"
     },
-    {
+    "George Strait": {
         "number": 204,
-        "name": "George Strait",
         "spotify_id": "5vngPClqofybhPERIqQMYd"
     },
-    {
+    "Slipknot": {
         "number": 205,
-        "name": "Slipknot",
         "spotify_id": "05fG473iIaoy82BF1aGhL8"
     },
-    {
+    "Don Omar": {
         "number": 206,
-        "name": "Don Omar",
         "spotify_id": "33ScadVnbm2X8kkUqOkC6Z"
     },
-    {
+    "Jon Pardi": {
         "number": 207,
-        "name": "Jon Pardi",
         "spotify_id": "4MoAOfV4ROWofLG3a3hhBN"
     },
-    {
+    "mgk": {
         "number": 208,
-        "name": "mgk",
         "spotify_id": "6TIYQ3jFPwQSRmorSezPxX"
     },
-    {
+    "Background White Noise": {
         "number": 209,
-        "name": "Background White Noise",
         "spotify_id": "7nixcnKd43u9a29ZMawfnh"
     },
-    {
+    "Nickelback": {
         "number": 210,
-        "name": "Nickelback",
         "spotify_id": "6deZN1bslXzeGvOLaLMOIF"
     },
-    {
+    "Paramore": {
         "number": 211,
-        "name": "Paramore",
         "spotify_id": "74XFHRwlV6OrjEM0A2NCMF"
     },
-    {
+    "The Kid LAROI": {
         "number": 212,
-        "name": "The Kid LAROI",
         "spotify_id": "2tIP7SsRs7vjIcLrU85W8J"
     },
-    {
+    "Britney Spears": {
         "number": 213,
-        "name": "Britney Spears",
         "spotify_id": "26dSoYclwsYLMAKD3tpOr4"
     },
-    {
+    "blink-182": {
         "number": 214,
-        "name": "blink-182",
         "spotify_id": "6FBDaR13swtiWwGhX1WQsP"
     },
-    {
+    "Kane Brown": {
         "number": 215,
-        "name": "Kane Brown",
         "spotify_id": "3oSJ7TBVCWMDMiYjXNiCKE"
     },
-    {
+    "Pop Smoke": {
         "number": 216,
-        "name": "Pop Smoke",
         "spotify_id": "0eDvMgVFoNV3TpwtrVCoTj"
     },
-    {
+    "Conan Gray": {
         "number": 217,
-        "name": "Conan Gray",
         "spotify_id": "4Uc8Dsxct0oMqx0P6i60ea"
     },
-    {
+    "Panic! At The Disco": {
         "number": 218,
-        "name": "Panic! At The Disco",
         "spotify_id": "20JZFwl6HVl6yg8a4H3ZqK"
     },
-    {
+    "Eric Church": {
         "number": 219,
-        "name": "Eric Church",
         "spotify_id": "2IvkS5MXK0vPGnwyJsrEyV"
     },
-    {
+    "Phoebe Bridgers": {
         "number": 220,
-        "name": "Phoebe Bridgers",
         "spotify_id": "1r1uxoy19fzMxunt3ONAkG"
     },
-    {
+    "Young Miko": {
         "number": 221,
-        "name": "Young Miko",
         "spotify_id": "3qsKSpcV3ncke3hw52JSMB"
     },
-    {
+    "Quavo": {
         "number": 222,
-        "name": "Quavo",
         "spotify_id": "0VRj0yCOv2FXJNP47XQnx5"
     },
-    {
+    "Cage The Elephant": {
         "number": 223,
-        "name": "Cage The Elephant",
         "spotify_id": "26T3LtbuGT1Fu9m0eRq5X3"
     },
-    {
+    "Rick Ross": {
         "number": 224,
-        "name": "Rick Ross",
         "spotify_id": "1sBkRIssrMs1AbVkOJbc7a"
     },
-    {
+    "Arc\u00e1ngel": {
         "number": 225,
-        "name": "Arc\u00e1ngel",
         "spotify_id": "4SsVbpTthjScTS7U2hmr1X"
     },
-    {
+    "Selena Gomez": {
         "number": 226,
-        "name": "Selena Gomez",
         "spotify_id": "0C8ZW7ezQVs4URX5aX7Kqx"
     },
-    {
+    "Sleep Token": {
         "number": 227,
-        "name": "Sleep Token",
         "spotify_id": "2n2RSaZqBuUUukhbLlpnE6"
     },
-    {
+    "Gorillaz": {
         "number": 228,
-        "name": "Gorillaz",
         "spotify_id": "3AA28KZvwAUcZuOKwyblJQ"
     },
-    {
+    "Odetari": {
         "number": 229,
-        "name": "Odetari",
         "spotify_id": "7ITMCzIU9uII8gwRg8JAhc"
     },
-    {
+    "GloRilla": {
         "number": 230,
-        "name": "GloRilla",
         "spotify_id": "2qoQgPAilErOKCwE2Y8wOG"
     },
-    {
+    "Zac Brown Band": {
         "number": 231,
-        "name": "Zac Brown Band",
         "spotify_id": "6yJCxee7QumYr820xdIsjo"
     },
-    {
+    "Kesha": {
         "number": 232,
-        "name": "Kesha",
         "spotify_id": "6LqNN22kT3074XbTVUrhzX"
     },
-    {
+    "Russ": {
         "number": 233,
-        "name": "Russ",
         "spotify_id": "1z7b1Pr1rSlvWRzsW3HOrS"
     },
-    {
+    "Jack Johnson": {
         "number": 234,
-        "name": "Jack Johnson",
         "spotify_id": "3GBPw9NK25X1Wt2OUvOwY3"
     },
-    {
+    "Foo Fighters": {
         "number": 235,
-        "name": "Foo Fighters",
         "spotify_id": "7jy3rLJdDQY21OgRLCZ9sD"
     },
-    {
+    "Camila Cabello": {
         "number": 236,
-        "name": "Camila Cabello",
         "spotify_id": "4nDoRrQiYLoBzwC5BhVJzF"
     },
-    {
+    "Pharrell Williams": {
         "number": 237,
-        "name": "Pharrell Williams",
         "spotify_id": "2RdwBSPQiwcmiDo9kixcl8"
     },
-    {
+    "Clairo": {
         "number": 238,
-        "name": "Clairo",
         "spotify_id": "3l0CmX0FuQjFxr8SK7Vqag"
     },
-    {
+    "Sam Haft": {
         "number": 239,
-        "name": "Sam Haft",
         "spotify_id": "3osxpNwDgRAPs3aZZNsdV8"
     },
-    {
+    "Chino Pacas": {
         "number": 240,
-        "name": "Chino Pacas",
         "spotify_id": "2rmkQLzj0k4nZdQehOUByO"
     },
-    {
+    "G-Eazy": {
         "number": 241,
-        "name": "Christian Nodal",
-        "spotify_id": "0XwVARXT135rw8lyw1EeWP"
-    },
-    {
-        "number": 242,
-        "name": "Diplo",
-        "spotify_id": "5fMUXHkw8R8eOP2RNVYEZX"
-    },
-    {
-        "number": 243,
-        "name": "G-Eazy",
         "spotify_id": "02kJSzxNuaWGqwubyUba0Z"
     },
-    {
+    "Christian Nodal": {
+        "number": 242,
+        "spotify_id": "0XwVARXT135rw8lyw1EeWP"
+    },
+    "Diplo": {
+        "number": 243,
+        "spotify_id": "5fMUXHkw8R8eOP2RNVYEZX"
+    },
+    "Shawn Mendes": {
         "number": 244,
-        "name": "Shawn Mendes",
         "spotify_id": "7n2wHs1TKAczGzO7Dd2rGr"
     },
-    {
+    "Andrew Underberg": {
         "number": 245,
-        "name": "Andrew Underberg",
         "spotify_id": "4zXroEby35IgWPERRcW4Ay"
     },
-    {
+    "P!nk": {
         "number": 246,
-        "name": "P!nk",
         "spotify_id": "1KCSPY1glIKqW2TotWuXOR"
     },
-    {
+    "beabadoobee": {
         "number": 247,
-        "name": "beabadoobee",
         "spotify_id": "35l9BRT7MXmM8bv2WDQiyB"
     },
-    {
+    "Kenny Chesney": {
         "number": 248,
-        "name": "Kenny Chesney",
         "spotify_id": "3grHWM9bx2E9vwJCdlRv9O"
     },
-    {
+    "Daryl Hall & John Oates": {
         "number": 249,
-        "name": "Daryl Hall & John Oates",
         "spotify_id": "77tT1kLj6mCWtFNqiOmP9H"
     },
-    {
+    "Farruko": {
         "number": 250,
-        "name": "Farruko",
         "spotify_id": "329e4yvIujISKGKz1BZZbO"
     },
-    {
+    "Flo Rida": {
         "number": 251,
-        "name": "Flo Rida",
         "spotify_id": "0jnsk9HBra6NMjO2oANoPY"
     },
-    {
+    "Lil Tjay": {
         "number": 252,
-        "name": "Lil Tjay",
         "spotify_id": "6jGMq4yGs7aQzuGsMgVgZR"
     },
-    {
+    "Djo": {
         "number": 253,
-        "name": "Djo",
         "spotify_id": "5p9HO3XC5P3BLxJs5Mtrhm"
     },
-    {
+    "Joji": {
         "number": 254,
-        "name": "Joji",
         "spotify_id": "3MZsBdqDrRTJihTHQrO6Dq"
     },
-    {
+    "Sublime": {
         "number": 255,
-        "name": "Sublime",
         "spotify_id": "0EdvGhlC1FkGItLOWQzG4J"
     },
-    {
+    "Jhayco": {
         "number": 256,
-        "name": "Jhayco",
         "spotify_id": "6nVcHLIgY5pE2YCl8ubca1"
     },
-    {
+    "Ludacris": {
         "number": 257,
-        "name": "Ludacris",
         "spotify_id": "3ipn9JLAPI5GUEo4y4jcoi"
     },
-    {
+    "Florida Georgia Line": {
         "number": 258,
-        "name": "Florida Georgia Line",
         "spotify_id": "3b8QkneNDz4JHKKKlLgYZg"
     },
-    {
+    "2 Chainz": {
         "number": 259,
-        "name": "2 Chainz",
         "spotify_id": "17lzZA2AlOHwCwFALHttmp"
     },
-    {
+    "Bizarrap": {
         "number": 260,
-        "name": "Bizarrap",
         "spotify_id": "716NhGYqD1jl2wI1Qkgq36"
     },
-    {
+    "Manuel Turizo": {
         "number": 261,
-        "name": "Manuel Turizo",
         "spotify_id": "0tmwSHipWxN12fsoLcFU3B"
     },
-    {
+    "Big Sean": {
         "number": 262,
-        "name": "Big Sean",
         "spotify_id": "0c173mlxpT3dSFRgMO8XPh"
     },
-    {
+    "Young Dolph": {
         "number": 263,
-        "name": "Young Dolph",
         "spotify_id": "3HiuzBlSW7pGDXlSFMhO2g"
     },
-    {
+    "JID": {
         "number": 264,
-        "name": "JID",
         "spotify_id": "6U3ybJ9UHNKEdsH7ktGBZ7"
     },
-    {
+    "Daft Punk": {
         "number": 265,
-        "name": "Daft Punk",
         "spotify_id": "4tZwfgrHOc3mvqYlEYSvVi"
     },
-    {
+    "MF DOOM": {
         "number": 266,
-        "name": "MF DOOM",
         "spotify_id": "2pAWfrd7WFF3XhVt9GooDL"
     },
-    {
+    "Jimin": {
         "number": 267,
-        "name": "Jimin",
         "spotify_id": "1oSPZhvZMIrWW5I41kPkkY"
     },
-    {
+    "Kevin Gates": {
         "number": 268,
-        "name": "Kevin Gates",
         "spotify_id": "1gPhS1zisyXr5dHTYZyiMe"
     },
-    {
+    "The Smiths": {
         "number": 269,
-        "name": "The Smiths",
         "spotify_id": "3yY2gUcIsjMr8hjo51PoJ8"
     },
-    {
+    "The Notorious B.I.G.": {
         "number": 270,
-        "name": "The Notorious B.I.G.",
         "spotify_id": "5me0Irg2ANcsgc93uaYrpb"
     },
-    {
+    "Migos": {
         "number": 271,
-        "name": "Migos",
         "spotify_id": "6oMuImdp5ZcFhWP0ESe6mG"
     },
-    {
+    "Tyla": {
         "number": 272,
-        "name": "Tyla",
         "spotify_id": "3SozjO3Lat463tQICI9LcE"
     },
-    {
+    "Los Temerarios": {
         "number": 273,
-        "name": "Los Temerarios",
         "spotify_id": "3YbOSxo85kla7RID8ugnW3"
     },
-    {
+    "Korn": {
         "number": 274,
-        "name": "Korn",
         "spotify_id": "3RNrq3jvMZxD9ZyoOZbQOD"
     },
-    {
+    "ABBA": {
         "number": 275,
-        "name": "ABBA",
         "spotify_id": "0LcJLqbBmaGUft1e9Mm8HV"
     },
-    {
+    "Rich The Kid": {
         "number": 276,
-        "name": "Thomas Rhett",
-        "spotify_id": "6x2LnllRG5uGarZMsD4iO8"
-    },
-    {
-        "number": 277,
-        "name": "Grupo Marca Registrada",
-        "spotify_id": "1gW6pz5n1aK249L0GvfQCC"
-    },
-    {
-        "number": 278,
-        "name": "Toby Keith",
-        "spotify_id": "2bA6fzP0lMAQ4kz6CF61w8"
-    },
-    {
-        "number": 279,
-        "name": "Eladio Carrion",
-        "spotify_id": "5XJDexmWFLWOkjOEjOVX3e"
-    },
-    {
-        "number": 280,
-        "name": "Rich The Kid",
         "spotify_id": "1pPmIToKXyGdsCF6LmqLmI"
     },
-    {
+    "Thomas Rhett": {
+        "number": 277,
+        "spotify_id": "6x2LnllRG5uGarZMsD4iO8"
+    },
+    "Grupo Marca Registrada": {
+        "number": 278,
+        "spotify_id": "1gW6pz5n1aK249L0GvfQCC"
+    },
+    "Toby Keith": {
+        "number": 279,
+        "spotify_id": "2bA6fzP0lMAQ4kz6CF61w8"
+    },
+    "Eladio Carrion": {
+        "number": 280,
+        "spotify_id": "5XJDexmWFLWOkjOEjOVX3e"
+    },
+    "Grupo Firme": {
         "number": 281,
-        "name": "Grupo Firme",
         "spotify_id": "1dKdetem2xEmjgvyymzytS"
     },
-    {
+    "My Chemical Romance": {
         "number": 282,
-        "name": "My Chemical Romance",
         "spotify_id": "7FBcuc1gsnv6Y1nwFtNRCb"
     },
-    {
+    "Pink Floyd": {
         "number": 283,
-        "name": "Pink Floyd",
         "spotify_id": "0k17h0D3J5VfsdmQ1iZtE9"
     },
-    {
+    "Koe Wetzel": {
         "number": 284,
-        "name": "Koe Wetzel",
         "spotify_id": "1Tie3AZgLQZqYEp8Fv4zOZ"
     },
-    {
+    "Eagles": {
         "number": 285,
-        "name": "Eagles",
         "spotify_id": "0ECwFtbIWEVNwjlrfc6xoL"
     },
-    {
+    "Kygo": {
         "number": 286,
-        "name": "Kygo",
         "spotify_id": "23fqKkggKUBHNkbKtXEls4"
     },
-    {
+    "Treaty Oak Revival": {
         "number": 287,
-        "name": "Treaty Oak Revival",
         "spotify_id": "3444S3C4U9Ts86BnCtSPRV"
     },
-    {
+    "Led Zeppelin": {
         "number": 288,
-        "name": "Led Zeppelin",
         "spotify_id": "36QJpDe2go2KgaRleHCDTp"
     },
-    {
+    "Roddy Ricch": {
         "number": 289,
-        "name": "Roddy Ricch",
         "spotify_id": "757aE44tKEUQEqRuT6GnEB"
     },
-    {
+    "Empire Of The Sun": {
         "number": 290,
-        "name": "Empire Of The Sun",
         "spotify_id": "67hb7towEyKvt5Z8Bx306c"
     },
-    {
+    "Johnny Cash": {
         "number": 291,
-        "name": "Johnny Cash",
         "spotify_id": "6kACVPfCOnqzgfEF5ryl0x"
     },
-    {
+    "PinkPantheress": {
         "number": 292,
-        "name": "PinkPantheress",
         "spotify_id": "78rUTD7y6Cy67W1RVzYs7t"
     },
-    {
+    "NewJeans": {
         "number": 293,
-        "name": "NewJeans",
         "spotify_id": "6HvZYsbFfjnjFrWF950C9d"
     },
-    {
+    "Pritam": {
         "number": 294,
-        "name": "Pritam",
         "spotify_id": "1wRPtKGflJrBx9BmLsSwlU"
     },
-    {
+    "Ivan Cornejo": {
         "number": 295,
-        "name": "Ivan Cornejo",
         "spotify_id": "6PH3FLQAxtqYy46Zv08bpV"
     },
-    {
+    "El Alfa": {
         "number": 296,
-        "name": "El Alfa",
         "spotify_id": "2oQX8QiMXOyuqbcZEFsZfm"
     },
-    {
+    "Lainey Wilson": {
         "number": 297,
-        "name": "Lainey Wilson",
         "spotify_id": "6tPHARSq45lQ8BSALCfkFC"
     },
-    {
+    "TOMORROW X TOGETHER": {
         "number": 298,
-        "name": "TOMORROW X TOGETHER",
         "spotify_id": "0ghlgldX5Dd6720Q3qFyQB"
     },
-    {
+    "Banda MS de Sergio Liz\u00e1rraga": {
         "number": 299,
-        "name": "Banda MS de Sergio Liz\u00e1rraga",
         "spotify_id": "2C6i0I5RiGzDKN9IAF8reh"
     },
-    {
+    "Tyga": {
         "number": 300,
-        "name": "Tyga",
         "spotify_id": "5LHRHt1k9lMyONurDHEdrp"
     },
-    {
+    "Weezer": {
         "number": 301,
-        "name": "Weezer",
         "spotify_id": "3jOstUTkEu2JkjvRdBA5Gu"
     },
-    {
+    "V": {
         "number": 302,
-        "name": "V",
         "spotify_id": "3JsHnjpbhX4SnySpvpa9DK"
     },
-    {
+    "The Strokes": {
         "number": 303,
-        "name": "The Strokes",
         "spotify_id": "0epOFNiUfyON9EYx7Tpr6V"
     },
-    {
+    "Jessie Murph": {
         "number": 304,
-        "name": "Jessie Murph",
         "spotify_id": "2yLzlEFtIS0Q9UkyBZdQA7"
     },
-    {
+    "Bebe Rexha": {
         "number": 305,
-        "name": "Bebe Rexha",
         "spotify_id": "64M6ah0SkkRsnPGtGiRAbb"
     },
-    {
+    "Pierce The Veil": {
         "number": 306,
-        "name": "Pierce The Veil",
         "spotify_id": "4iJLPqClelZOBCBifm8Fzv"
     },
-    {
+    "Frank Sinatra": {
         "number": 307,
-        "name": "Frank Sinatra",
         "spotify_id": "1Mxqyy3pSjf8kZZL4QVxS0"
     },
-    {
+    "Macklemore": {
         "number": 308,
-        "name": "Macklemore",
         "spotify_id": "3JhNCzhSMTxs9WLGJJxWOY"
     },
-    {
+    "Anderson .Paak": {
         "number": 309,
-        "name": "Anderson .Paak",
         "spotify_id": "3jK9MiCrA42lLAdMGUZpwa"
     },
-    {
+    "Elevation Worship": {
         "number": 310,
-        "name": "Elevation Worship",
         "spotify_id": "3YCKuqpv9nCsIhJ2v8SMix"
     },
-    {
+    "Black Eyed Peas": {
         "number": 311,
-        "name": "Black Eyed Peas",
         "spotify_id": "1yxSLGMDHlW21z4YXirZDS"
     },
-    {
+    "Riley Green": {
         "number": 312,
-        "name": "Riley Green",
         "spotify_id": "2QMsj4XJ7ne2hojxt6v5eb"
     },
-    {
+    "Eyedress": {
         "number": 313,
-        "name": "Eyedress",
         "spotify_id": "3XxNRirzbjfLdDli06zMaB"
     },
-    {
+    "Outkast": {
         "number": 314,
-        "name": "Outkast",
         "spotify_id": "1G9G7WwrXka3Z1r7aIDjI7"
     },
-    {
+    "Chase Atlantic": {
         "number": 315,
-        "name": "Chase Atlantic",
         "spotify_id": "7cYEt1pqMgXJdq00hAwVpT"
     },
-    {
+    "Three Days Grace": {
         "number": 316,
-        "name": "Three Days Grace",
         "spotify_id": "2xiIXseIJcq3nG7C8fHeBj"
     },
-    {
+    "Madonna": {
         "number": 317,
-        "name": "Madonna",
         "spotify_id": "6tbjWDEIzxoDsBA1FuhfPW"
     },
-    {
+    "The Killers": {
         "number": 318,
-        "name": "The Killers",
         "spotify_id": "0C0XlULifJtAgn6ZNCW2eu"
     },
-    {
+    "Avicii": {
         "number": 319,
-        "name": "Avicii",
         "spotify_id": "1vCWHaC5f2uS3yhpwWbIA6"
     },
-    {
+    "Guns N' Roses": {
         "number": 320,
-        "name": "Guns N' Roses",
         "spotify_id": "3qm84nBOXUEQ2vnTfUTTFC"
     },
-    {
+    "John Mayer": {
         "number": 321,
-        "name": "John Mayer",
         "spotify_id": "0hEurMDQu99nJRq8pTxO14"
     },
-    {
+    "Alicia Keys": {
         "number": 322,
-        "name": "Alicia Keys",
         "spotify_id": "3DiDSECUqqY1AuBP8qtaIa"
     },
-    {
+    "Tim McGraw": {
         "number": 323,
-        "name": "Tim McGraw",
         "spotify_id": "6roFdX1y5BYSbp60OTJWMd"
     },
-    {
+    "Charli XCX": {
         "number": 324,
-        "name": "Charli XCX",
         "spotify_id": "25uiPmTg16RbhZWAqwLBy5"
     },
-    {
+    "Flo Milli": {
         "number": 325,
-        "name": "Flo Milli",
         "spotify_id": "08PvCOlef4xdOr20jFSTPd"
     },
-    {
+    "ERNEST": {
         "number": 326,
-        "name": "ERNEST",
         "spotify_id": "4GGfAshSkqoxpZdoaHm7ky"
     },
-    {
+    "Sean Paul": {
         "number": 327,
-        "name": "Sean Paul",
         "spotify_id": "3Isy6kedDrgPYoTS1dazA9"
     },
-    {
+    "The Offspring": {
         "number": 328,
-        "name": "The Offspring",
         "spotify_id": "5LfGQac0EIXyAN8aUwmNAQ"
     },
-    {
+    "Glass Animals": {
         "number": 329,
-        "name": "Glass Animals",
         "spotify_id": "4yvcSjfu4PC0CYQyLy4wSq"
     },
-    {
+    "AJR": {
         "number": 330,
-        "name": "AJR",
         "spotify_id": "6s22t5Y3prQHyaHWUN1R1C"
     },
-    {
+    "Bring Me The Horizon": {
         "number": 331,
-        "name": "Bring Me The Horizon",
         "spotify_id": "1Ffb6ejR6Fe5IamqA5oRUF"
     },
-    {
+    "Lewis Capaldi": {
         "number": 332,
-        "name": "Lewis Capaldi",
         "spotify_id": "4GNC7GD6oZMSxPGyXy4MNB"
     },
-    {
+    "Charlie Puth": {
         "number": 333,
-        "name": "Charlie Puth",
         "spotify_id": "6VuMaDnrHyPL1p4EHjYLi7"
     },
-    {
+    "Calmly": {
         "number": 334,
-        "name": "Calmly",
         "spotify_id": "5OWksQm7ONWIGZqMXovSli"
     },
-    {
+    "Five Finger Death Punch": {
         "number": 335,
-        "name": "Five Finger Death Punch",
         "spotify_id": "5t28BP42x2axFnqOOMg3CM"
     },
-    {
+    "Dei V": {
         "number": 336,
-        "name": "Dei V",
         "spotify_id": "2YRyPiW98bpkARAS4B3OQP"
     },
-    {
+    "Tems": {
         "number": 337,
-        "name": "Tems",
         "spotify_id": "687cZJR45JO7jhk1LHIbgq"
     },
-    {
+    "Amy Winehouse": {
         "number": 338,
-        "name": "Amy Winehouse",
         "spotify_id": "6Q192DXotxtaysaqNPy5yR"
     },
-    {
+    "Meghan Trainor": {
         "number": 339,
-        "name": "Meghan Trainor",
         "spotify_id": "6JL8zeS1NmiOftqZTRgdTz"
     },
-    {
+    "Logic": {
         "number": 340,
-        "name": "Logic",
         "spotify_id": "4xRYI6VqpkE3UwrDrAZL8L"
     },
-    {
+    "Rels B": {
         "number": 341,
-        "name": "Rels B",
         "spotify_id": "2IMZYfNi21MGqxopj9fWx8"
     },
-    {
+    "T.I.": {
         "number": 342,
-        "name": "T.I.",
         "spotify_id": "4OBJLual30L7gRl5UkeRcT"
     },
-    {
+    "LE SSERAFIM": {
         "number": 343,
-        "name": "LE SSERAFIM",
         "spotify_id": "4SpbR6yFEvexJuaBpgAU5p"
     },
-    {
+    "Mora": {
         "number": 344,
-        "name": "Mora",
         "spotify_id": "0Q8NcsJwoCbZOHHW63su5S"
     },
-    {
+    "Ski Mask The Slump God": {
         "number": 345,
-        "name": "Ski Mask The Slump God",
         "spotify_id": "2rhFzFmezpnW82MNqEKVry"
     },
-    {
+    "BossMan Dlow": {
         "number": 346,
-        "name": "BossMan Dlow",
         "spotify_id": "23xFbA9rYgRX8mreqysWPc"
     },
-    {
+    "FloyyMenor": {
         "number": 347,
-        "name": "FloyyMenor",
         "spotify_id": "7CvTknweLr9feJtRGrpDBy"
     },
-    {
+    "ENHYPEN": {
         "number": 348,
-        "name": "ENHYPEN",
         "spotify_id": "5t5FqBwTcgKTaWmfEbwQY9"
     },
-    {
+    "Ava Max": {
         "number": 349,
-        "name": "Ava Max",
         "spotify_id": "4npEfmQ6YuiwW1GpUmaq3F"
     },
-    {
+    "Rainbow Kitten Surprise": {
         "number": 350,
-        "name": "Rainbow Kitten Surprise",
         "spotify_id": "4hz8tIajF2INpgM0qzPJz2"
     },
-    {
+    "Elvis Presley": {
         "number": 351,
-        "name": "Elvis Presley",
         "spotify_id": "43ZHCT0cAZBISjO8DG9PnE"
     },
-    {
+    "Mariah Carey": {
         "number": 352,
-        "name": "Mariah Carey",
         "spotify_id": "4iHNK0tOyZPYnBU7nGAgpQ"
     },
-    {
+    "Journey": {
         "number": 353,
-        "name": "Journey",
         "spotify_id": "0rvjqX7ttXeg3mTy8Xscbt"
     },
-    {
+    "Gracie Abrams": {
         "number": 354,
-        "name": "Gracie Abrams",
         "spotify_id": "4tuJ0bMpJh08umKkEXKUI5"
     },
-    {
+    "Bon Iver": {
         "number": 355,
-        "name": "Bon Iver",
         "spotify_id": "4LEiUm1SRbFMgfqnQTwUbQ"
     },
-    {
+    "Nelly": {
         "number": 356,
-        "name": "Nelly",
         "spotify_id": "2gBjLmx6zQnFGQJCAQpRgw"
     },
-    {
+    "Troye Sivan": {
         "number": 357,
-        "name": "Troye Sivan",
         "spotify_id": "3WGpXCj9YhhfX11TToZcXP"
     },
-    {
+    "Becky G": {
         "number": 358,
-        "name": "Becky G",
         "spotify_id": "4obzFoKoKRHIphyHzJ35G3"
     },
-    {
+    "Timbaland": {
         "number": 359,
-        "name": "Timbaland",
         "spotify_id": "5Y5TRrQiqgUO4S36tzjIRZ"
     },
-    {
+    "H.E.R.": {
         "number": 360,
-        "name": "H.E.R.",
         "spotify_id": "3Y7RZ31TRPVadSFVy1o8os"
     },
-    {
+    "Chencho Corleone": {
         "number": 361,
-        "name": "Chencho Corleone",
         "spotify_id": "37230BxxYs9ksS7OkZw3IU"
     },
-    {
+    "Alan Jackson": {
         "number": 362,
-        "name": "Alan Jackson",
         "spotify_id": "4mxWe1mtYIYfP040G38yvS"
     },
-    {
+    "Ellie Goulding": {
         "number": 363,
-        "name": "Ellie Goulding",
         "spotify_id": "0X2BH1fck6amBIoJhDVmmJ"
     },
-    {
+    "Megan Moroney": {
         "number": 364,
-        "name": "Megan Moroney",
         "spotify_id": "5Ppie0uPnbnvGBYRwYmlt0"
     },
-    {
+    "4batz": {
         "number": 365,
-        "name": "4batz",
         "spotify_id": "5fi7lIgJGH3RgUpJYcffQ7"
     },
-    {
+    "Maggie Rogers": {
         "number": 366,
-        "name": "Maggie Rogers",
         "spotify_id": "4NZvixzsSefsNiIqXn0NDe"
     },
-    {
+    "Giveon": {
         "number": 367,
-        "name": "Giveon",
         "spotify_id": "4fxd5Ee7UefO4CUXgwJ7IP"
     },
-    {
+    "Yandel": {
         "number": 368,
-        "name": "Yandel",
         "spotify_id": "0eHQ9o50hj6ZDNBt6Ys1sD"
     },
-    {
+    "Lorde": {
         "number": 369,
-        "name": "Lorde",
         "spotify_id": "163tK9Wjr9P9DmM0AVK7lm"
     },
-    {
+    "42 Dugg": {
         "number": 370,
-        "name": "42 Dugg",
         "spotify_id": "45gHcnDnMC15sgx3VL7ROG"
     },
-    {
+    "Bon Jovi": {
         "number": 371,
-        "name": "Bon Jovi",
         "spotify_id": "58lV9VcRSjABbAbfWS6skp"
     },
-    {
+    "Ice Spice": {
         "number": 372,
-        "name": "Ice Spice",
         "spotify_id": "3LZZPxNDGDFVSIPqf4JuEf"
     },
-    {
+    "Connor Price": {
         "number": 373,
-        "name": "Connor Price",
         "spotify_id": "5zixe6AbgXPqt4c1uSl94L"
     },
-    {
+    "TWICE": {
         "number": 374,
-        "name": "TWICE",
         "spotify_id": "7n2Ycct7Beij7Dj7meI4X0"
     },
-    {
+    "JENNIE": {
         "number": 375,
-        "name": "JENNIE",
         "spotify_id": "250b0Wlc5Vk0CoUsaCY84M"
     },
-    {
+    "Warren Zeiders": {
         "number": 376,
-        "name": "Warren Zeiders",
         "spotify_id": "7kplJl06UmldxLKseURAYi"
     },
-    {
+    "ScHoolboy Q": {
         "number": 377,
-        "name": "ScHoolboy Q",
         "spotify_id": "5IcR3N7QB1j6KBL8eImZ8m"
     },
-    {
+    "Los Tucanes De Tijuana": {
         "number": 378,
-        "name": "Los Tucanes De Tijuana",
         "spotify_id": "014WIDx7H4BRCHB1faiisK"
     },
-    {
+    "Destroy Lonely": {
         "number": 379,
-        "name": "Destroy Lonely",
         "spotify_id": "1HPW4jeRjXBFRoUnSvBzoD"
     },
-    {
+    "Alec Benjamin": {
         "number": 380,
-        "name": "Alec Benjamin",
         "spotify_id": "5IH6FPUwQTxPSXurCrcIov"
     },
-    {
+    "Meek Mill": {
         "number": 381,
-        "name": "Meek Mill",
         "spotify_id": "20sxb77xiYeusSH8cVdatc"
     },
-    {
+    "Nicky Jam": {
         "number": 382,
-        "name": "Nicky Jam",
         "spotify_id": "1SupJlEpv7RS2tPNRaHViT"
     },
-    {
+    "MGMT": {
         "number": 383,
-        "name": "MGMT",
         "spotify_id": "0SwO7SWeDHJijQ3XNS7xEE"
     },
-    {
+    "SEVENTEEN": {
         "number": 384,
-        "name": "SEVENTEEN",
         "spotify_id": "7nqOGRxlXj7N2JYbgNEjYH"
     },
-    {
+    "Bryant Myers": {
         "number": 385,
-        "name": "Bryant Myers",
         "spotify_id": "6w9ToX5slZ4uIdmD17hJ3c"
     },
-    {
+    "Avenged Sevenfold": {
         "number": 386,
-        "name": "Avenged Sevenfold",
         "spotify_id": "0nmQIMXWTXfhgOBdNzhGOs"
     },
-    {
+    "DJ Khaled": {
         "number": 387,
-        "name": "DJ Khaled",
         "spotify_id": "0QHgL1lAIqAw0HtD7YldmP"
     },
-    {
+    "Sech": {
         "number": 388,
-        "name": "Sech",
         "spotify_id": "77ziqFxp5gaInVrF2lj4ht"
     },
-    {
+    "Kehlani": {
         "number": 389,
-        "name": "Kehlani",
         "spotify_id": "0cGUm45nv7Z6M6qdXYQGTX"
     },
-    {
+    "Lin-Manuel Miranda": {
         "number": 390,
-        "name": "Lin-Manuel Miranda",
         "spotify_id": "4aXXDj9aZnlshx7mzj3W1N"
     },
-    {
+    "Los Tigres Del Norte": {
         "number": 391,
-        "name": "Los Tigres Del Norte",
         "spotify_id": "3hYtANQYrE6pd2PbtEyTIy"
     },
-    {
+    "James Arthur": {
         "number": 392,
-        "name": "James Arthur",
         "spotify_id": "4IWBUUAFIplrNtaOHcJPRM"
     },
-    {
+    "Hotel Ugly": {
         "number": 393,
-        "name": "Hotel Ugly",
         "spotify_id": "35WVTyRnKAoaGExqgktVyb"
     },
-    {
+    "Pearl Jam": {
         "number": 394,
-        "name": "Pearl Jam",
         "spotify_id": "1w5Kfo2jwwIPruYS2UWh56"
     },
-    {
+    "Falling In Reverse": {
         "number": 395,
-        "name": "Falling In Reverse",
         "spotify_id": "2CmaKO2zEGJ1NWpS1yfVGz"
     },
-    {
+    "Jason Derulo": {
         "number": 396,
-        "name": "Jason Derulo",
         "spotify_id": "07YZf4WDAMNwqr4jfgOZ8y"
     },
-    {
+    "Train": {
         "number": 397,
-        "name": "Train",
         "spotify_id": "3FUY2gzHeIiaesXtOAdB7A"
     },
-    {
+    "Limp Bizkit": {
         "number": 398,
-        "name": "Limp Bizkit",
         "spotify_id": "165ZgPlLkK7bf5bDoFc6Sb"
     },
-    {
+    "Faye Webster": {
         "number": 399,
-        "name": "Faye Webster",
         "spotify_id": "5szilpXHcwOqnyKLqGco5j"
     },
-    {
+    "Lay Bankz": {
         "number": 400,
-        "name": "Lay Bankz",
         "spotify_id": "4OVbrPbhvK46A1uXTU1u5F"
     },
-    {
+    "Willie Nelson": {
         "number": 401,
-        "name": "Willie Nelson",
         "spotify_id": "5W5bDNCqJ1jbCgTxDD0Cb3"
     },
-    {
+    "Labrinth": {
         "number": 402,
-        "name": "Labrinth",
         "spotify_id": "2feDdbD5araYcm6JhFHHw7"
     },
-    {
+    "Chance the Rapper": {
         "number": 403,
-        "name": "Chance the Rapper",
         "spotify_id": "1anyVhU62p31KFi8MEzkbf"
     },
-    {
+    "blackbear": {
         "number": 404,
-        "name": "blackbear",
         "spotify_id": "2cFrymmkijnjDg9SS92EPM"
     },
-    {
+    "JVKE": {
         "number": 405,
-        "name": "JVKE",
         "spotify_id": "164Uj4eKjl6zTBKfJLFKKK"
     },
-    {
+    "Van Morrison": {
         "number": 406,
-        "name": "Van Morrison",
         "spotify_id": "44NX2ffIYHr6D4n7RaZF7A"
     },
-    {
+    "M\u00e5neskin": {
         "number": 407,
-        "name": "M\u00e5neskin",
         "spotify_id": "0lAWpj5szCSwM4rUMHYmrr"
     },
-    {
+    "Bad Omens": {
         "number": 408,
-        "name": "Bad Omens",
         "spotify_id": "3Ri4H12KFyu98LMjSoij5V"
     },
-    {
+    "Bryan Martin": {
         "number": 409,
-        "name": "Bryan Martin",
         "spotify_id": "0ChjBYedhZTQnWZWQYg15U"
     },
-    {
+    "Xavier Wulf": {
         "number": 410,
-        "name": "Xavier Wulf",
         "spotify_id": "3uo0ix4Y67XHVWBhXXIY1S"
     },
-    {
+    "The Cranberries": {
         "number": 411,
-        "name": "The Cranberries",
         "spotify_id": "7t0rwkOPGlDPEhaOcVtOt9"
     },
-    {
+    "BLACKPINK": {
         "number": 412,
-        "name": "BLACKPINK",
         "spotify_id": "41MozSoPIsD1dJM0CLPjZF"
     },
-    {
+    "Disturbed": {
         "number": 413,
-        "name": "Disturbed",
         "spotify_id": "3TOqt5oJwL9BE2NG9MEwDa"
     },
-    {
+    "YNW Melly": {
         "number": 414,
-        "name": "YNW Melly",
         "spotify_id": "1cNDP5yjU5vjeR8qMf4grg"
     },
-    {
+    "Rich Amiri": {
         "number": 415,
-        "name": "Rich Amiri",
         "spotify_id": "2sF5nNXnrrsCPZlt8ZpyGd"
     },
-    {
+    "Alice In Chains": {
         "number": 416,
-        "name": "Alice In Chains",
         "spotify_id": "64tNsm6TnZe2zpcMVMOoHL"
     },
-    {
+    "Stephen Sanchez": {
         "number": 417,
-        "name": "Stephen Sanchez",
         "spotify_id": "5XKFrudbV4IiuE5WuTPRmT"
     },
-    {
+    "Lynyrd Skynyrd": {
         "number": 418,
-        "name": "Lynyrd Skynyrd",
         "spotify_id": "4MVyzYMgTwdP7Z49wAZHx0"
     },
-    {
+    "Wisin & Yandel": {
         "number": 419,
-        "name": "Wisin & Yandel",
         "spotify_id": "1wZtkThiXbVNtj6hee6dz9"
     },
-    {
+    "Vicente Fern\u00e1ndez": {
         "number": 420,
-        "name": "Vicente Fern\u00e1ndez",
         "spotify_id": "4PPoI9LuYeFX8V674Z1R6l"
     },
-    {
+    "David Bowie": {
         "number": 421,
-        "name": "David Bowie",
         "spotify_id": "0oSGxfWSnnOXhD2fKuz2Gy"
     },
-    {
+    "Shinedown": {
         "number": 422,
-        "name": "Shinedown",
         "spotify_id": "70BYFdaZbEKbeauJ670ysI"
     },
-    {
+    "Jeremih": {
         "number": 423,
-        "name": "Jeremih",
         "spotify_id": "3KV3p5EY4AvKxOlhGHORLg"
     },
-    {
+    "Tito Double P": {
         "number": 424,
-        "name": "Tito Double P",
         "spotify_id": "5eumcnUkdmGvkvcsx1WFNG"
     },
-    {
+    "Lizzy McAlpine": {
         "number": 425,
-        "name": "Lizzy McAlpine",
         "spotify_id": "1GmsPCcpKgF9OhlNXjOsbS"
     },
-    {
+    "5 Seconds of Summer": {
         "number": 426,
-        "name": "5 Seconds of Summer",
         "spotify_id": "5Rl15oVamLq7FbSb0NNBNy"
     },
-    {
+    "Dylan Scott": {
         "number": 427,
-        "name": "Dylan Scott",
         "spotify_id": "78YqeIji3mgAS2K1Maca6x"
     },
-    {
+    "Jay Wheeler": {
         "number": 428,
-        "name": "Jay Wheeler",
         "spotify_id": "2cPqdH7XMvwaBJEVjheH8g"
     },
-    {
+    "Alan Walker": {
         "number": 429,
-        "name": "Alan Walker",
         "spotify_id": "7vk5e3vY1uw9plTHJAMwjN"
     },
-    {
+    "Lenny Tav\u00e1rez": {
         "number": 430,
-        "name": "Lenny Tav\u00e1rez",
         "spotify_id": "1pQWsZQehhS4wavwh7Fnxd"
     },
-    {
+    "Demi Lovato": {
         "number": 431,
-        "name": "Demi Lovato",
         "spotify_id": "6S2OmqARrzebs0tKUEyXyp"
     },
-    {
+    "Brooks & Dunn": {
         "number": 432,
-        "name": "Brooks & Dunn",
         "spotify_id": "0XKOBt59crntr7HQXXO8Yz"
     },
-    {
+    "\u00d1engo Flow": {
         "number": 433,
-        "name": "\u00d1engo Flow",
         "spotify_id": "12vb80Km0Ew53ABfJOepVz"
     },
-    {
+    "Dolly Parton": {
         "number": 434,
-        "name": "Dolly Parton",
         "spotify_id": "32vWCbZh0xZ4o9gkz4PsEU"
     },
-    {
+    "DJ Snake": {
         "number": 435,
-        "name": "DJ Snake",
         "spotify_id": "540vIaP2JwjQb9dm3aArA4"
     },
-    {
+    "Camilo": {
         "number": 436,
-        "name": "Camilo",
         "spotify_id": "28gNT5KBp7IjEOQoevXf9N"
     },
-    {
+    "Alfredo Olivas": {
         "number": 437,
-        "name": "Alfredo Olivas",
         "spotify_id": "5xYNmNkaWRqu3e5F4UXME8"
     },
-    {
+    "Jimmy Buffett": {
         "number": 438,
-        "name": "Jimmy Buffett",
         "spotify_id": "28AyklUmMECPwdfo8NEsV0"
     },
-    {
+    "Stevie Wonder": {
         "number": 439,
-        "name": "Stevie Wonder",
         "spotify_id": "7guDJrEfX3qb6FEbdPA5qi"
     },
-    {
+    "BONES": {
         "number": 440,
-        "name": "BONES",
         "spotify_id": "5v2WhpA59TJSdPh7LCx1lN"
     },
-    {
+    "Isabel LaRosa": {
         "number": 441,
-        "name": "Isabel LaRosa",
         "spotify_id": "5arKwJZEvT5uKq4o0JfqR4"
     },
-    {
+    "Tainy": {
         "number": 442,
-        "name": "Tainy",
         "spotify_id": "0GM7qgcRCORpGnfcN2tCiB"
     },
-    {
+    "YG": {
         "number": 443,
-        "name": "YG",
         "spotify_id": "0A0FS04o6zMoto8OKPsDwY"
     },
-    {
+    "The Black Keys": {
         "number": 444,
-        "name": "The Black Keys",
         "spotify_id": "7mnBLXK823vNxN3UWB7Gfz"
     },
-    {
+    "Dasha": {
         "number": 445,
-        "name": "Dasha",
         "spotify_id": "7Ez6lTtSMjMf2YSYpukP1I"
     },
-    {
+    "Michael Marcagi": {
         "number": 446,
-        "name": "Michael Marcagi",
         "spotify_id": "4j96cMcT8GRi11qbvo1cLQ"
     },
-    {
+    "Bee Gees": {
         "number": 447,
-        "name": "Bee Gees",
         "spotify_id": "1LZEQNv7sE11VDY3SdxQeN"
     },
-    {
+    "Hans Zimmer": {
         "number": 448,
-        "name": "Hans Zimmer",
         "spotify_id": "0YC192cP3KPCRWx8zr8MfZ"
     },
-    {
+    "The 1975": {
         "number": 449,
-        "name": "The 1975",
         "spotify_id": "3mIj9lX2MWuHmhNCA7LSCW"
     },
-    {
+    "Nate Dogg": {
         "number": 450,
-        "name": "Nate Dogg",
         "spotify_id": "1Oa0bMld0A3u5OTYfMzp5h"
     },
-    {
+    "Ryan Castro": {
         "number": 451,
-        "name": "Ryan Castro",
         "spotify_id": "7j6DKwmjbxvpQO8h914uEz"
     },
-    {
+    "Montell Fish": {
         "number": 452,
-        "name": "Montell Fish",
         "spotify_id": "5nvWOyAkfNgVLKESq4fOj2"
     },
-    {
+    "Latto": {
         "number": 453,
-        "name": "Latto",
         "spotify_id": "3MdXrJWsbVzdn6fe5JYkSQ"
     },
-    {
+    "Johann Sebastian Bach": {
         "number": 454,
-        "name": "Johann Sebastian Bach",
         "spotify_id": "5aIqB5nVVvmFsvSdExz408"
     },
-    {
+    "Anitta": {
         "number": 455,
-        "name": "Anitta",
         "spotify_id": "7FNnA9vBm6EKceENgCGRMb"
     },
-    {
+    "Skrillex": {
         "number": 456,
-        "name": "Skrillex",
         "spotify_id": "5he5w2lnU9x7JFhnwcekXX"
     },
-    {
+    "\u00d8neheart": {
         "number": 457,
-        "name": "\u00d8neheart",
         "spotify_id": "0dgJbQ0bKPyUXco8hEXN7X"
     },
-    {
+    "Christina Aguilera": {
         "number": 458,
-        "name": "Christina Aguilera",
         "spotify_id": "1l7ZsJRRS8wlW3WfJfPfNS"
     },
-    {
+    "Quevedo": {
         "number": 459,
-        "name": "Quevedo",
         "spotify_id": "52iwsT98xCoGgiGntTiR7K"
     },
-    {
+    "Colter Wall": {
         "number": 460,
-        "name": "Colter Wall",
         "spotify_id": "3xYXYzm9H3RzyQgBrYwIcx"
     },
-    {
+    "Bill Withers": {
         "number": 461,
-        "name": "Bill Withers",
         "spotify_id": "1ThoqLcyIYvZn7iWbj8fsj"
     },
-    {
+    "Old Dominion": {
         "number": 462,
-        "name": "Old Dominion",
         "spotify_id": "6y8XlgIV8BLlIg1tT1R10i"
     },
-    {
+    "Rene\u00e9 Rapp": {
         "number": 463,
-        "name": "Rene\u00e9 Rapp",
         "spotify_id": "2hUYKu1x0UZQXvzCmggvSn"
     },
-    {
+    "Tee Grizzley": {
         "number": 464,
-        "name": "Tee Grizzley",
         "spotify_id": "6AUl0ykLLpvTktob97x9hO"
     },
-    {
+    "The Police": {
         "number": 465,
-        "name": "The Police",
         "spotify_id": "5NGO30tJxFlKixkPSgXcFE"
     },
-    {
+    "Justin Quiles": {
         "number": 466,
-        "name": "Justin Quiles",
         "spotify_id": "14zUHaJZo1mnYtn6IBRaRP"
     },
-    {
+    "U2": {
         "number": 467,
-        "name": "U2",
         "spotify_id": "51Blml2LZPmy7TTiAg47vQ"
     },
-    {
+    "Lord Huron": {
         "number": 468,
-        "name": "Lord Huron",
         "spotify_id": "6ltzsmQQbmdoHHbLZ4ZN25"
     },
-    {
+    "Joan Sebastian": {
         "number": 469,
-        "name": "Joan Sebastian",
         "spotify_id": "7FsRH5bw8iWpSbMX1G7xf1"
     },
-    {
+    "Jonas Brothers": {
         "number": 470,
-        "name": "Jonas Brothers",
         "spotify_id": "7gOdHgIoIKoe4i9Tta6qdD"
     },
-    {
+    "6LACK": {
         "number": 471,
-        "name": "6LACK",
         "spotify_id": "4IVAbR2w4JJNJDDRFP3E83"
     },
-    {
+    "The Smashing Pumpkins": {
         "number": 472,
-        "name": "The Smashing Pumpkins",
         "spotify_id": "40Yq4vzPs9VNUrIBG5Jr2i"
     },
-    {
+    "Nelly Furtado": {
         "number": 473,
-        "name": "Nelly Furtado",
         "spotify_id": "2jw70GZXlAI8QzWeY2bgRc"
     },
-    {
+    "Bruce Springsteen": {
         "number": 474,
-        "name": "Bruce Springsteen",
         "spotify_id": "3eqjTLE0HfPfh78zjh6TqT"
     },
-    {
+    "David Kushner": {
         "number": 475,
-        "name": "David Kushner",
         "spotify_id": "33NVpKoXjItPwUJTMZIOiY"
     },
-    {
+    "Aerosmith": {
         "number": 476,
-        "name": "Aerosmith",
         "spotify_id": "7Ey4PD4MYsKc5I2dolUwbH"
     },
-    {
+    "Central Cee": {
         "number": 477,
-        "name": "Central Cee",
         "spotify_id": "5H4yInM5zmHqpKIoMNAx4r"
     },
-    {
+    "Avril Lavigne": {
         "number": 478,
-        "name": "Avril Lavigne",
         "spotify_id": "0p4nmQO2msCgU4IF37Wi3j"
     },
-    {
+    "Vacations": {
         "number": 479,
-        "name": "Vacations",
         "spotify_id": "0U7iI0Dk4Ojvi17nZboNO4"
     },
-    {
+    "Plan B": {
         "number": 480,
-        "name": "Plan B",
         "spotify_id": "2jSGzJw0ebJLu7OLVSOcBP"
     },
-    {
+    "Wallows": {
         "number": 481,
-        "name": "Wallows",
         "spotify_id": "0NIPkIjTV8mB795yEIiPYL"
     },
-    {
+    "Young Nudy": {
         "number": 482,
-        "name": "Young Nudy",
         "spotify_id": "5yPzzu25VzEk8qrGTLIrE1"
     },
-    {
+    "Juicy J": {
         "number": 483,
-        "name": "Juicy J",
         "spotify_id": "5gCRApTajqwbnHHPbr2Fpi"
     },
-    {
+    "Natasha Bedingfield": {
         "number": 484,
-        "name": "Natasha Bedingfield",
         "spotify_id": "7o95ZoZt5ZYn31e9z1Hc0a"
     },
-    {
+    "ZAYN": {
         "number": 485,
-        "name": "ZAYN",
         "spotify_id": "5ZsFI1h6hIdQRw2ti0hz81"
     },
-    {
+    "Fred again..": {
         "number": 486,
-        "name": "Fred again..",
         "spotify_id": "4oLeXFyACqeem2VImYeBFe"
     },
-    {
+    "Calle 24": {
         "number": 487,
-        "name": "Calle 24",
         "spotify_id": "6dLuQ5qXxIuWc5urxfIiZR"
     },
-    {
+    "Vance Joy": {
         "number": 488,
-        "name": "Vance Joy",
         "spotify_id": "10exVja0key0uqUkk6LJRT"
     },
-    {
+    "Mt. Joy": {
         "number": 489,
-        "name": "Mt. Joy",
         "spotify_id": "69tiO1fG8VWduDl3ji2qhI"
     },
-    {
+    "Jeezy": {
         "number": 490,
-        "name": "Ice Cube",
-        "spotify_id": "3Mcii5XWf6E0lrY3Uky4cA"
-    },
-    {
-        "number": 491,
-        "name": "Jungle",
-        "spotify_id": "59oA5WbbQvomJz2BuRG071"
-    },
-    {
-        "number": 492,
-        "name": "Mark Ambor",
-        "spotify_id": "11p2E654TTU8e0nZWBR4AL"
-    },
-    {
-        "number": 493,
-        "name": "Wizkid",
-        "spotify_id": "3tVQdUvClmAT7URs9V3rsp"
-    },
-    {
-        "number": 494,
-        "name": "Joey Bada$$",
-        "spotify_id": "2P5sC9cVZDToPxyomzF1UH"
-    },
-    {
-        "number": 495,
-        "name": "Enrique Iglesias",
-        "spotify_id": "7qG3b048QCHVRO5Pv1T5lw"
-    },
-    {
-        "number": 496,
-        "name": "Parker McCollum",
-        "spotify_id": "0Z8XVUAOBPM4x12wKnFHEQ"
-    },
-    {
-        "number": 497,
-        "name": "Aaron May",
-        "spotify_id": "2rwALQ1SXdfUWPUd6WOfYS"
-    },
-    {
-        "number": 498,
-        "name": "Blake Shelton",
-        "spotify_id": "1UTPBmNbXNTittyMJrNkvw"
-    },
-    {
-        "number": 499,
-        "name": "Jeezy",
         "spotify_id": "4yBK75WVCQXej1p04GWqxH"
     },
-    {
+    "Ice Cube": {
+        "number": 491,
+        "spotify_id": "3Mcii5XWf6E0lrY3Uky4cA"
+    },
+    "Jungle": {
+        "number": 492,
+        "spotify_id": "59oA5WbbQvomJz2BuRG071"
+    },
+    "Mark Ambor": {
+        "number": 493,
+        "spotify_id": "11p2E654TTU8e0nZWBR4AL"
+    },
+    "Wizkid": {
+        "number": 494,
+        "spotify_id": "3tVQdUvClmAT7URs9V3rsp"
+    },
+    "Joey Bada$$": {
+        "number": 495,
+        "spotify_id": "2P5sC9cVZDToPxyomzF1UH"
+    },
+    "Enrique Iglesias": {
+        "number": 496,
+        "spotify_id": "7qG3b048QCHVRO5Pv1T5lw"
+    },
+    "Parker McCollum": {
+        "number": 497,
+        "spotify_id": "0Z8XVUAOBPM4x12wKnFHEQ"
+    },
+    "Aaron May": {
+        "number": 498,
+        "spotify_id": "2rwALQ1SXdfUWPUd6WOfYS"
+    },
+    "Blake Shelton": {
+        "number": 499,
+        "spotify_id": "1UTPBmNbXNTittyMJrNkvw"
+    },
+    "Carrie Underwood": {
         "number": 500,
-        "name": "Carrie Underwood",
         "spotify_id": "4xFUf1FHVy696Q1JQZMTRj"
     }
-]
+}
