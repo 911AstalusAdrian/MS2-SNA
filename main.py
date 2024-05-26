@@ -37,7 +37,7 @@ offset = 0
 
 for i in range(25):
     data = urlencode({
-    'q' : 'a',
+    'q' : 'year:2023',
     'type' : 'artist',
     'market' : 'US',
     'limit': '20', 
