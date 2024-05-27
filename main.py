@@ -1,8 +1,8 @@
 import os
 import json
 import requests
+import csv
 from urllib.parse import urlencode
-
 from secrets import Secrets
 
 
@@ -111,6 +111,7 @@ def clean_feature_list(feature_list):
     unique_list = set(flat_list)
     return list(unique_list)
 
+
 def get_artist_features(artist_name):
     features = []
     songs = get_artist_songs(artist_name)
@@ -125,11 +126,40 @@ def get_artist_features(artist_name):
     return features
 
 
+def get_artist_feature_tuples(artist, feature_list, file):
+    tuple_list = []
+    artist_number = file[artist]['number']
+    for each_feature in feature_list:
+        if each_feature in file.keys():
+            tuple_list.append((artist_number, file[each_feature]['number']))
+    return tuple_list
+
+
+def clean_tuples(tuple_list):
+    unique_pairs = set()
+    unique_list = []
+
+    for a, b in tuple_list:
+        pair = tuple(sorted((a, b)))
+        if pair not in unique_pairs:
+            unique_pairs.add(pair)
+            unique_list.append(pair)
+
+    return unique_list
+
+
+def save_to_csv(tuple_list, csv_file):
+    with open(csv_file, 'w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(['ArtistA', 'ArtistB'])
+        for tup in tuple_list:
+            writer.writerow(tup)
+
+
 if __name__ == '__main__':
-
-    artist = 'Drake'
-
+    all_feature_tuples = []
     json_path = 'data/artist_data.json'
+    csv_path = 'data/data.csv'
     secrets = Secrets()
 
     if os.path.getsize(json_path) == 0:
@@ -140,25 +170,10 @@ if __name__ == '__main__':
 
     for artist_name, artist_data in artists.items():
         artist_features = get_artist_features(artist_name)
-        print(f'{artist_name} - {artist_features}')
+        features_tuples = get_artist_feature_tuples(artist_name, artist_features, artists)
+        print(f'Checking on {artist_name}...')
+        all_feature_tuples += features_tuples
 
-
-    # f = get_artist_features('Lil Baby')
-    # print(f)
-
-
-    # drake_songs = get_artist_songs(artist)
-    # artist_features = get_artist_features(artist)
-    #
-    # artist_id = artists[artist]['number']
-    #
-    # for artist_feature in artist_features:
-    #     print(artist_feature)
-    #     '''
-    #     Check if each artist_feature not empty
-    #     Parse artist_feature
-    #     for each element, get the id
-    #     create a tuple with artist_id
-    #     save tuple
-    #     '''
-
+    print(len(all_feature_tuples))
+    cleaned_feature_tuples = clean_tuples(all_feature_tuples)
+    save_to_csv(cleaned_feature_tuples, csv_path)
