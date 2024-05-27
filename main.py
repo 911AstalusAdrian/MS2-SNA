@@ -106,13 +106,22 @@ def get_artist_songs(artist_name):
     return json_response['tracks']['items']
 
 
+def clean_feature_list(feature_list):
+    flat_list = [feature for sublist in feature_list for feature in sublist]
+    unique_list = set(flat_list)
+    return list(unique_list)
+
 def get_artist_features(artist_name):
     features = []
     songs = get_artist_songs(artist_name)
     for song in songs:
         song_features = get_song_features(song['artists'])
-        song_features.remove(artist_name)
+        if artist_name in song_features:
+            song_features.remove(artist_name)
         features.append(song_features)
+
+    features = clean_feature_list(features)
+
     return features
 
 
@@ -129,18 +138,27 @@ if __name__ == '__main__':
     else:
         artists = load_artists(json_path)
 
-    drake_songs = get_artist_songs(artist)
-    artist_features = get_artist_features(artist)
+    for artist_name, artist_data in artists.items():
+        artist_features = get_artist_features(artist_name)
+        print(f'{artist_name} - {artist_features}')
 
-    artist_id = artists[artist]['number']
 
-    for artist_feature in artist_features:
-        print(artist_feature)
-        '''
-        Check if each artist_feature not empty
-        Parse artist_feature
-        for each element, get the id
-        create a tuple with artist_id
-        save tuple
-        '''
+    # f = get_artist_features('Lil Baby')
+    # print(f)
+
+
+    # drake_songs = get_artist_songs(artist)
+    # artist_features = get_artist_features(artist)
+    #
+    # artist_id = artists[artist]['number']
+    #
+    # for artist_feature in artist_features:
+    #     print(artist_feature)
+    #     '''
+    #     Check if each artist_feature not empty
+    #     Parse artist_feature
+    #     for each element, get the id
+    #     create a tuple with artist_id
+    #     save tuple
+    #     '''
 
